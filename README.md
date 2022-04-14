@@ -3,8 +3,7 @@ Potential 2b coord exploit / Dupe Exploit In Testing
 This is the new improved version! 
 [INFO] This will not work remotely on your PC, This is not the required components.
 
-TESTED:WORKS
-Dubs duped: 17
+UPDATE: DUPE DOESNT WORK
 
 Bases found:
 
