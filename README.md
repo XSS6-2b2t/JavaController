@@ -8,8 +8,8 @@ Dubs duped: 17
 
 Bases found:
 
-JSyncs Quarters
-Revelation Of The Empire
-Emperium Stash
-Unnamed Stashes x7
+JSyncs Quarters,
+Revelation Of The Empire,
+Emperium Stash,
+Unnamed Stashes x7,
 Emperium Group Bases x2
