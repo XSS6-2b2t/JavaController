@@ -265,7 +265,7 @@ public final class World {
         NoComment.executor.execute(() -> {
             stats.hitReceived(prio);
             if (slurpManager != null) {
-                slurpManager.arbitraryHitExternal(pos); // notify slurper that a filter has hit this chunk
+                slurpManager.arbitraryHitExternal(pos); // notify that a filter has hit this chunk
             }
         });
     }
